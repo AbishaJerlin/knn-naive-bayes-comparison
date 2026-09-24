@@ -1,0 +1,2 @@
+Dataset,Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Credit Card Fraud,kNN,0.999105278854757,1.0,0.8,0.8888888888888888,0.9666067505492311
